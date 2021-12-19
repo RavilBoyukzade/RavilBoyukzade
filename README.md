@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/ravilboyukzade/ravilboyukzade/master/resources/banner.png">
 
 <img src="resources/banner.png">
 
