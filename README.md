@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ravil Boyukzade 👋
 
 <img src="/resources/banner.png">
 
