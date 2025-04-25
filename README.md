@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=500&lines=Building+robust+backends+with+.NET;Designing+clean+APIs+and+scalable+architectures;Solving+business+problems+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=800&lines=Building+robust+backends+with+.NET;Designing+clean+APIs+and+scalable+architectures;Solving+business+problems+with+code" alt="Typing SVG" />
 </p>
 
 ---
