@@ -76,8 +76,8 @@
 
 ### 📫 Reach Me
 
-- 💬 Telegram: [@ravilboyukzade](https://t.me/ravilboyukzade)
-- 🔗 LinkedIn: *insert your profile*
-- 📧 Email: *insert your email*
+- 💬 Telegram: [@ravilboyukzade](https://t.me/devel0_0per)
+- 🔗 LinkedIn: [*Ravil Boyukzada*](https://www.linkedin.com/in/ravilboyukzade/)
+- 📧 Email: ravilboyukzada@gmail.com
 
 ---
