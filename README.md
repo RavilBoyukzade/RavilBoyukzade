@@ -1,84 +1,83 @@
-<h1 align="center">Привет! Я Ravil 👋</h1>
+<h1 align="center">Hi, I'm Ravil 👋</h1>
 
 <p align="center">
-  <em>.NET Developer | Fullstack Learner | Делюсь, развиваюсь, автоматизирую</em>
+  <em>Senior .NET Developer | Fullstack Engineer | 7+ years of experience in building real-world solutions</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Люблю+чистый+код;Всегда+учусь+новому;ASP.NET+%2B+Docker+%2B+SQL+%3D+❤️" alt="Typing SVG" />
-</p>
-
----
-
-### 🧠 Немного обо мне:
-
-- 🎯 .NET Core, Web API, MVC, C# — моя стихия
-- 🐳 Обожаю Docker и SQL Server
-- 📊 Аналитика данных — Power BI + Excel
-- 🌐 Работаю и с фронтом: Angular, React, Bootstrap
-- ✍️ Пишу блог (готовлю гайды для разработчиков)
-
----
-
-### 🔧 Технологии, с которыми я работаю:
-
-<img src="https://skillicons.dev/icons?i=dotnet,c,cpp,cs,python,js,react,angular,bootstrap,azure,docker,postgres,mysql,git,github,vscode,powershell,linux,figma" />
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/skills?username=RavilBoyukzade&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=500&lines=Building+robust+backends+with+.NET;Designing+clean+APIs+and+scalable+architectures;Solving+business+problems+with+code" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 Мой девиз:
+### 🧑‍💻 About Me
 
-> *"Код — это не просто инструкции для компьютера, это способ общения между разработчиками. Пиши так, чтобы тебя поняли."*
-
----
-
-### 📚 Сейчас изучаю:
-
-- 📦 Clean Architecture в ASP.NET Core
-- 🔐 Аутентификацию через JWT
-- 📱 Razor Pages vs Blazor (микроэксперименты)
-- ☁️ Azure Deployment для pet-проектов
+- 💼 Over 7 years in software development: .NET Core, C#, Web API, MVC, Razor Pages
+- 🧠 Strong grasp of **SOLID**, **Clean Architecture**, **Domain-Driven Design**
+- 💡 Experienced in designing RESTful APIs, multi-layered applications, and microservices
+- 🧰 Comfortable with DevOps practices: Docker, CI/CD, Azure, GitHub Actions
+- 🎯 Passionate about **code readability**, **performance**, and **developer experience**
+- 📊 Data-minded: Power BI, SQL, Excel automation
 
 ---
 
-### 🎯 Цели / Roadmap:
+### 🔧 Tech Stack
 
-- [x] Запустить ToDo-приложение на ASP.NET Core MVC
-- [ ] Переписать ToDo в Web API + Angular SPA
-- [ ] Реализовать блог-платформу с комментариями и тегами
-- [ ] Настроить CI/CD через GitHub Actions
-- [ ] Развернуть собственное портфолио на GitHub Pages
-- [ ] Написать серию статей: от CRUD до API на .NET
+<img src="https://skillicons.dev/icons?i=dotnet,c,cpp,cs,python,js,react,angular,bootstrap,azure,docker,mysql,postgres,git,github,linux,powershell,vscode,idea" />
 
 ---
 
-### 🚀 Мои проекты:
+### 💡 Philosophy
 
-| 📌 Название        | 💬 Описание                            | 🔗 Ссылка |
-|-------------------|----------------------------------------|-----------|
-| ✅ ToDo List       | ASP.NET Core MVC + SQL + Docker        | [смотреть](https://github.com/RavilBoyukzade/ToDoListAppNetCoreApp) |
-| 🧠 Blog Platform   | Полноценная платформа для постов       | *в разработке* |
-| 📦 API Marketplace| Web API + Swagger + JWT                | *скоро*   |
+> _"The best code is no code at all. But if we must write it — let it be clear, modular, and maintainable."_  
+> _"Technology is a tool, not the goal — value comes from solving real-world problems."_
 
 ---
 
-### 📊 GitHub статистика:
+### 📚 Currently Learning & Exploring
+
+- Advanced clean architecture with ASP.NET Core
+- OAuth 2.0 / OpenID Connect integrations
+- Blazor Server vs WASM (deep dive)
+- Infrastructure as Code (Bicep / Terraform for Azure)
+- Web performance and front-end architecture
+
+---
+
+### 🗺️ My Roadmap 2024
+
+- [x] ASP.NET Core MVC + SQL CRUD app (✅ `ToDo List App`)
+- [ ] Build modular Blog Platform with DDD patterns
+- [ ] Implement Web API Gateway with authentication
+- [ ] Automate deploys with GitHub Actions & Docker
+- [ ] Create a personal DevOps-ready portfolio site
+- [ ] Share insights via blog posts & dev articles
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| **ToDo List App** | Classic CRUD + Docker + SQL Server + EF Core | `.NET Core MVC`, `Docker`, `SQL Server` | [GitHub ↗](https://github.com/RavilBoyukzade/ToDoListAppNetCoreApp) |
+| **Blog Platform** | Blogging engine with user auth and tagging | `.NET Web API`, `JWT`, `Angular` | *In Progress* |
+| **API Marketplace** | Modular Web API for e-commerce | `Clean Architecture`, `Swagger`, `Azure` | *Coming Soon* |
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavilBoyukzade&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavilBoyukzade&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RavilBoyukzade&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavilBoyukzade&layout=compact&hide=html&theme=transparent" />
 </p>
 
 ---
 
-### 📫 Связаться со мной:
+### 📫 Reach Me
 
-- Telegram: [@ravilboyukzade](https://t.me/ravilboyukzade)
-- LinkedIn: *добавь свою ссылку*
-- Email: *твоя почта, если хочешь отображать*
+- 💬 Telegram: [@ravilboyukzade](https://t.me/ravilboyukzade)
+- 🔗 LinkedIn: *insert your profile*
+- 📧 Email: *insert your email*
 
 ---
