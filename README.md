@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ravil 👋</h1>
 
 <p align="center">
-  <em>Senior .NET Developer | Fullstack Engineer | 7+ years of experience in building real-world solutions</em>
+  <em>Middle .NET Developer | Fullstack Engineer | 7+ years of experience in building real-world solutions</em>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 ---
 
-### 🗺️ My Roadmap 2024
+### 🗺️ My Roadmap 2025
 
 - [x] ASP.NET Core MVC + SQL CRUD app (✅ `ToDo List App`)
 - [ ] Build modular Blog Platform with DDD patterns
